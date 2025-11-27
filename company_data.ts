@@ -204,7 +204,7 @@ Kami berharap kehadiran PT. WRITE & CO dapat memberikan kemudahan dan manfaat ny
   contact: {
     address: "Jalan Keutamaan Dalam No 24 RT 6 RW 3 Krukut, Taman Sari",
     email: "ud.writecorporation@gmail.com",
-    website: "writeandco.vercel.app",
+    website: "write-and-co.vercel.app",
     instagram: "@write.co__",
     tiktok: "@write_co",
   },
