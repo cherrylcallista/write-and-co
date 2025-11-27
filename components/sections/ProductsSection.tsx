@@ -19,7 +19,7 @@ function ProductsSection() {
                 COMPANY_DATA.productsList.map(p => (
                     <div key={p.namaProduk} className="p-4 rounded-xl shadow-xl">
                         <div>
-                            <img src={`/products/${p.fotoProduk}`} alt={p.namaProduk} className="aspect-square"/>
+                            <img src={`/products${p.fotoProduk}`} alt={p.namaProduk} className="aspect-square"/>
                         </div>
                         <p className={`text-${COLOR_PRIMARY}-600 font-bold mt-4`}>{p.namaProduk }</p>
                     </div>
